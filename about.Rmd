@@ -1,0 +1,7 @@
+---
+title: "About this website"
+---
+
+More info about this website
+```{r, child = "_session-info.Rmd"}
+```
